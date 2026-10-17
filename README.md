@@ -10,14 +10,14 @@ The facts come from a disassembly of the firmware (Ghidra) and from tests of the
 
 ## Contents
 
-1. [The random number generator](#2-the-random-number-generator)
-2. [The shuffle algorithm](#3-the-shuffle-algorithm)
-3. [How to add it to a player](#4-how-to-add-it-to-a-player)
-4. [C and C++ code](#5-c-and-c-code)
-5. [Swift code](#6-swift-code)
-6. [Test values](#7-test-values)
-7. [Bugs in the firmware](#8-bugs-in-the-firmware)
-8. [Limits of this document](#9-limits-of-this-document)
+1. [The random number generator](#1-the-random-number-generator)
+2. [The shuffle algorithm](#2-the-shuffle-algorithm)
+3. [How to add it to a player](#3-how-to-add-it-to-a-player)
+4. [C and C++ code](#4-c-and-c-code)
+5. [Swift code](#5-swift-code)
+6. [Test values](#6-test-values)
+7. [Bugs in the firmware](#7-bugs-in-the-firmware)
+8. [Limits of this document](#8-limits-of-this-document)
 
 
 ## 1. The random number generator
