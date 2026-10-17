@@ -1,8 +1,8 @@
-# iPodClassicShuffle
-Using Ghidra we can reverse engineer how the famous shuffle worked on old iPods that everyone has an affinity for. This is taken from an iPod Video (Gen 5.5) on retailOS 1.3
+# iPod Classic Shuffle Decompilation
+Using Ghidra we can reverse engineer how the famous shuffle worked on old iPods that everyone has an affinity for. This is is exactly that, taken from an iPod Video (Gen 5.5) on retailOS 1.3.
 
 
-# The iPod shuffle: a specification and code to copy it
+# The iPod shuffle feature: a specification and code to replicate it
 
 This document tells how the iPod Video 5.5G (firmware 1.3) makes its shuffled play order. It also provides example code in C and in Swift. The code makes the same order as the iPod from the same seed. Add the code to a music player or to an iTunes replacement to get the native "iPod shuffle" behaviour.
 
