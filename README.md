@@ -6,7 +6,7 @@ Using Ghidra we can reverse engineer how the famous shuffle worked on old iPods 
 
 This document tells how the iPod Video 5.5G (firmware 1.3) makes its shuffled play order. It also provides example code in C and in Swift. The code makes the same order as the iPod from the same seed. Add the code to a music player or to an iTunes replacement to get the native "iPod shuffle" behaviour.
 
-The facts come from a disassembly of the firmware (Ghidra) and from tests of the unchanged firmware in an emulator. Each code example in this document passes the tests in [Test values](#6-test-values).
+This is information is from a disassembly of the firmware (using Ghidra) and from comparison tests of the unchanged firmware in an emulator. Each code example in this document passes the tests in [Test values](#6-test-values).
 
 ## Contents
 
