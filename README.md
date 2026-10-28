@@ -745,7 +745,7 @@ The firmware gives n to the random index as a 16-bit signed value. With more tha
 
 ## 8. Limits of this document
 
-These items are not known:
+These items are not known: 
 
 - If the iPod removes the songs that have "skip when shuffling" set in iTunes.
 - If the iPod shuffles again at the end of the list when Repeat is All.
